@@ -1,2 +1,4 @@
-kek {kek}
+function getPerson(name, surname) {
+return name + " " + surname;
+}
 
